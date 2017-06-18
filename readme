@@ -1,0 +1,7 @@
+1. winutils下的dll文件拷贝到System32目录下
+   https://github.com/steveloughran/winutils
+   https://stackoverflow.com/questions/17208736/failed-to-set-permissions-of-path-tmp
+
+2.Build a tarBall
+   mvn clean
+   mvn -DskipTests package assembly:single
