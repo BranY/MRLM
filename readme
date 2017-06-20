@@ -7,8 +7,8 @@
    mvn -DskipTests package assembly:single
 
 
-Four Smoothing Method :
-1. Good-Turing
-2. Kneser-Ney
-3. Modified Kneser-Ney
-4. Google Stupid Back off [See Paper : Large Language Models in Machine Translation]
+3. Four Smoothing Method :
+(1) Good-Turing
+(2) Kneser-Ney
+(3) Modified Kneser-Ney
+(4) Google Stupid Back off [See Paper : Large Language Models in Machine Translation]
