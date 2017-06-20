@@ -7,7 +7,7 @@
    mvn -DskipTests package assembly:single
 
 
-For Smoothing Method :
+Four Smoothing Method :
 1. Good-Turing
 2. Kneser-Ney
 3. Modified Kneser-Ney
