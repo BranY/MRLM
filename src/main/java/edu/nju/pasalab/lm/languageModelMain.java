@@ -21,7 +21,7 @@ import java.io.*;
  */
 public class languageModelMain {
     public static void main(String[] args){
-        System.setProperty("hadoop.home.dir", "D:\\workspace\\winutils");
+        //System.setProperty("hadoop.home.dir", "D:\\workspace\\winutils");
 
         Config config = ConfigFactory.parseFile(new File(args[0]));
         parameters ep = configRead.getTrainingSettings(config);
