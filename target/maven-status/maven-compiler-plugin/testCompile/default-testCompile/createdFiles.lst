@@ -1,0 +1,4 @@
+test\WordCount.class
+test\WordCount$TokenizerMapper.class
+test\testJava.class
+test\WordCount$IntSumReducer.class

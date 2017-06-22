@@ -1,7 +1,7 @@
 <component name="libraryTable">
   <library name="Maven: edu.nju.pasalab:chaski:1.0">
     <CLASSES>
-      <root url="jar://$MAVEN_REPOSITORY$/edu/nju/pasalab/chaski/1.0/Chaski-1.0.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/edu/nju/pasalab/Chaski/1.0/Chaski-1.0.jar!/" />
     </CLASSES>
     <JAVADOC>
       <root url="jar://$MAVEN_REPOSITORY$/edu/nju/pasalab/chaski/1.0/chaski-1.0-javadoc.jar!/" />
