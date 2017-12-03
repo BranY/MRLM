@@ -1,13 +1,15 @@
-1. winutils下的dll文件拷贝到System32目录下
-   https://github.com/steveloughran/winutils
-   https://stackoverflow.com/questions/17208736/failed-to-set-permissions-of-path-tmp
+# windows下可能遇到的问题
+在ieda中添加，winutils下的dll文件拷贝到System32目录下 () 
+https://github.com/steveloughran/winutils
+https://stackoverflow.com/questions/17208736/failed-to-set-permissions-of-path-tmp
 
-2.Build a tarBall
-   mvn clean
-   mvn -DskipTests package assembly:single
+# 编译&打包
+Build a tarBall
+mvn clean
+mvn -DskipTests package assembly:single
 
 
-3. Four Smoothing Method :
+# Four Smoothing Method :
 (1) Good-Turing
 (2) Kneser-Ney
 (3) Modified Kneser-Ney
